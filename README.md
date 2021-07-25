@@ -40,3 +40,5 @@ Restart termux app
 /data/com.termux/files/usr/etc
 
 Done
+
+https://github.com/JanuszSpiewa/Janusz-Termux-Setup/blob/main/screenshot.jpg
