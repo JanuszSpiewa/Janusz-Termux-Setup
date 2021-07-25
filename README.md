@@ -36,8 +36,9 @@ Type fish and enter
 Restart termux app 
 
 ##Replace motd file:
-                                                                  rm /data/data/com.termux/files/usr/etc/motd                                                                                         cp /data/data/com.termux/files/home/Janusz-Termux-Setup/motd /data
-/data/com.termux/files/usr/etc
+  rm /data/data/com.termux/files/usr/etc/motd    
+  
+  cp /data/data/com.termux/files/home/Janusz-Termux-Setup/motd /data/data/com.termux/files/usr/etc
 
 Done
 
