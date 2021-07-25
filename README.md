@@ -21,3 +21,18 @@ mv config config.old
 cp /data/data/com.termux/files/home/Janusz-Termux-Setup/polipo.conf /data/data/com.termux/files/usr/etc/polipo 
 	
 	
+## Change default shell:
+
+Type : chsh
+
+Termux ask You:
+
+Changing the login shell
+Enter the new value, or press ENTER for the default
+        Login Shell [bash]:
+
+Type fish and enter
+
+Restart termux app 
+
+Done
