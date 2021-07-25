@@ -12,7 +12,7 @@ cd speedtest-cli
 
 sh termux-install.sh
 
-Replace polipo  orginal config to secure config generate in Tor Developers:
+##Replace polipo  orginal config to secure config generate in Tor Developers:
 
 
 cd /data/data/com.termux/files/usr/etc/polipo
@@ -34,5 +34,9 @@ Enter the new value, or press ENTER for the default
 Type fish and enter
 
 Restart termux app 
+
+##Replace motd file:
+                                                                  rm /data/data/com.termux/files/usr/etc/motd                                                                                         cp /data/data/com.termux/files/home/Janusz-Termux-Setup/motd /data
+/data/com.termux/files/usr/etc
 
 Done
