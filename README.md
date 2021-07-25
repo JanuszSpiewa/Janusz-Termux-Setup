@@ -1,8 +1,12 @@
 ## Update termux repo and install apps:
 
-apt update -y && apt full-upgrade -y && apt install python vim fish mc tor polipo proxychains-ng git perl go && curl -L https://raw.githubusercontent.com/OzakIOne/termux-youtube-dl/v1.0.1/install.sh | bash
+apt update -y && apt full-upgrade -y && apt install python vim fish mc tor polipo proxychains-ng git perl openssh go 
 
-##You must click allow premission to create storage/ folder
+## Install youtube-dl :
+
+curl -L https://raw.githubusercontent.com/OzakIOne/termux-youtube-dl/v1.0.1/install.sh | bash
+
+##You must click allow premission to create download folder storage/Youtube-DL
 
 ## Install speedtest-cli in termux:
 
