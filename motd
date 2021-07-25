@@ -1,0 +1,19 @@
+ _____ _____ ____  __  __ _   ___  __
+|_   _| ____|  _ \|  \/  | | | \ \/ /
+  | | |  _| | |_) | |\/| | | | |\  /
+  | | | |___|  _ <| |  | | |_| |/  \
+  |_| |_____|_| \_\_|  |_|\___//_/\_\
+
+Working with packages:
+
+ * Search packages:   pkg search <query>
+ * Install a package: pkg install <package>
+ * Upgrade packages:  pkg upgrade
+
+Subscribing to additional repositories:
+
+ * Root:     pkg install root-repo
+ * Unstable: pkg install unstable-repo
+ * X11:      pkg install x11-repo
+
+
