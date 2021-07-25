@@ -41,4 +41,4 @@ Restart termux app
 
 Done
 
-https://github.com/JanuszSpiewa/Janusz-Termux-Setup/blob/main/screenshot.jpg
+![screenshot](https://github.com/JanuszSpiewa/Janusz-Termux-Setup/blob/main/screenshot.jpg)
